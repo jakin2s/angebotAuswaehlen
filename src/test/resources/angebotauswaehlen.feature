@@ -16,7 +16,7 @@
 
 
     Szenario: Wenn nur ein Angebot geliefert wird, dann wird dieses verwendet
-      Angenommen es gibt den folgenden Versandauftrag
+      Angenommen es gibgit fetcgt den folgenden Versandauftrag
         | Größe | Anzahl | Geldwert |
         | 5     | 10     | 100      |
       Und es gibt das folgende Angebot
